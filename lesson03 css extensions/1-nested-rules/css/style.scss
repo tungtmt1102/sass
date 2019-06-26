@@ -1,0 +1,18 @@
+.container {
+    .child {
+        a {
+            color: red;
+            font-size: 32px;
+            font-weight: bold;
+        }
+    }
+    p {
+        color: blue;
+        border: {
+            bottom: solid 1px red;
+            top: solid 2px blue;
+            left: solid 2px white;
+            right: solid 2px yellow;
+        }
+    }
+}

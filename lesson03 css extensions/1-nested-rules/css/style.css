@@ -1,0 +1,10 @@
+.container .child a {
+  color: red;
+  font-size: 32px;
+  font-weight: bold; }
+.container p {
+  color: blue;
+  border-bottom: solid 1px red;
+  border-top: solid 2px blue;
+  border-left: solid 2px white;
+  border-right: solid 2px yellow; }

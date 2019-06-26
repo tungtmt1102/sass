@@ -1,0 +1,14 @@
+.container {
+  width: 1200px;
+  height: 250px; }
+  .container .children p {
+    padding: 10px;
+    background-color: blue; }
+    .container .children p a {
+      color: red;
+      text-decoration: underline;
+      font-size: 32px; }
+  .container p {
+    color: red;
+    text-decoration: underline;
+    font-size: 32px; }
